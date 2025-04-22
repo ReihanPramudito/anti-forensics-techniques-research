@@ -9,15 +9,8 @@
 - 📊 **Key Results**:
   -  *Achieved irreversible file deletion via Eraser; created undetectable and encrypted hidden volumes in VeraCrypt; successfully spoofed test packets with Scapy; obfuscated executables with UPX to evade signature-based scans*
   -  *Identified that all four techniques constitute violations of ITE Law Article 32 and KUHP Article 278 when used maliciously*
-- 📚 **Context**: *Provide a one-sentence note on the nature or origin of the project (e.g., "Project simulating corporate forensic investigation, mirroring real-world incident response for a suspected malware breach" "CTF challenge designed to simulate real-world network attacks," or "Job simulation for practical application of digital forensics.")* 
+- 📚 **Context**: *Research and test anti‑forensic methods and their legal implications* 
 
 
 ## 🛠️ **Tools & Technologies**  
-<div align="left">  
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/suricata.png?raw=true" width="145" alt="Suricata"/>
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/splunk.png?raw=true" width="115" alt="Python"/>
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/metasploit.png?raw=true" width="150" alt="Metasploit"/>
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/python.png?raw=true" width="117" alt="Python"/>
-  <img src="https://github.com/ReihanPramudito/ReihanPramudito/blob/main/ImageAssets/autopsy.png?raw=true" width="127" alt="Autopsy"/>
-</div>
-
+`Eraser`, `VeraCrypt`, `Scapy (Python)`, `UPX`
