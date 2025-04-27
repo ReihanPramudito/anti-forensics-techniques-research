@@ -2,7 +2,6 @@
 
 ## 📖 **Overview**  
 - 🎯 **Objective**: *Demonstrate four anti‑forensic techniques—artifact wiping (`Eraser`), evidence hiding (`VeraCrypt`), trail obfuscation (`Scapy`), and tool attacks (`UPX`)—and assess their legal status under Indonesian ITE (Art. 32) and KUHP/Criminal Code (Art. 278)*
-
 - 📝 **Key Steps**:
   - *Implement and test each technique (e.g., hidden volumes with VeraCrypt, IP spoofing with Scapy)*
   - *Evaluate the recoverability, complexity, and detectability of each method*
